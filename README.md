@@ -187,9 +187,9 @@ Our vision is to democratize health tracking by making it accessible, accurate, 
 
  🔗 GitHub (code + README): https://github.com/rajdeep-5370/A-MATLAB-Powered-SMART-FITNESS-TRACKER
 
->> For the explanation PDF, working presentation & Full Explanative Video or collected Readings ,Do check out:
+ For the explanation PDF, working presentation & Full Explanative Video or collected Readings ,Do check out:
 
 https://drive.google.com/file/d/1cr_yMG2lnV_XMxPWapA_Nn-c_dg86_rm/view?usp=sharing
 
 
-#Hackathon #MATLAB #SignalProcessing #FitnessTech #AIProjects #StudentDevelopers #Engineering #AlgoRhythms
+#Hackathon #MATLAB #SignalProcessing #FitnessTech #GUI #Engineering #AlgoRhythms
