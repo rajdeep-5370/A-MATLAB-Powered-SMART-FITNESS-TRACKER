@@ -22,7 +22,7 @@ This project was built as part of a hackathon, focusing on making fitness tracki
 
 👥 Team AlgoRhythms
 
-Susmit Thakur|Samiran Jana| Rajdeep Ray | Soumyadeep Datta 
+Susmit Thakur | Samiran Jana | Rajdeep Ray | Soumyadeep Datta 
 
 📌 Explore more here:
 
