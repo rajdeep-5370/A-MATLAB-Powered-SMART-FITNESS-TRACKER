@@ -26,7 +26,7 @@ Susmit Thakur|Samiran Jana| Rajdeep Ray | Soumyadeep Datta
 
 📌 Explore more here:
 
- 🔗 GitHub (code + README): 
+ 🔗 GitHub (code + README): https://github.com/rajdeep-5370/A-MATLAB-Powered-SMART-FITNESS-TRACKER
 
  For the explanation PDF, working presentation & Full Explanative Video or collected Readings ,Do check out:
 
